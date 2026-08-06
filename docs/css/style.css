@@ -1,0 +1,23 @@
+body{
+background-color: white;
+margin: 20px;
+padding: 0;
+font-size: 1em;
+font-family: Arial;
+
+}
+h1 { 
+  color: black;
+  font-size: 4em;
+}
+
+p {
+  color: black;
+  font-size: 1.3em; 
+}
+
+
+audio {
+  width: 80%;
+
+}
