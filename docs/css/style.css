@@ -1,23 +1,58 @@
 body{
 background-color: white;
-margin: 20px;
-padding: 0;
-font-size: 1em;
-font-family: Arial;
-
+font-size: 1.556rem;
+font-family: Verdana;
+line-height: 1.5;
 }
+
 h1 { 
+  color: white;
+  font-size: 2.394rem;
+  text-align: center;
+  padding: 20px;
+  background-color: #183FB3;
+}
+
+h2 { 
+  color: #0A2471;
+  font-size: 2.1rem;
+  text-align: center;
+  margin: 1em 1em;
+  padding: 30px;
+}
+
+h3 { 
+  color:black;
+  font-size: 1.8rem;
+  text-align: center;
+  margin: 1em 2em;
+}
+h4 { 
   color: black;
-  font-size: 4em;
+  font-size: 1.7rem;
+  text-align: center;
+  margin: 1em;
 }
 
 p {
   color: black;
-  font-size: 1.3em; 
+  margin: 1em 2rem;
+  padding: 30px;
 }
 
+#object-a{
+  background-color: #DFFFFF;
+  margin: 2em auto;
+  padding: 20px;
+}
 
 audio {
-  width: 80%;
+  width: 90%;
+  margin: 1em 1em;
+}
 
+details{
+  color: black;
+  font-size: 1.7rem;
+  margin: 1em 1em;
 }
