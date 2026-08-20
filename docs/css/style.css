@@ -31,11 +31,11 @@ h3 {
 p {
   color: black;
   margin: 1em 1rem;
-  padding: 20px;
+  padding: 5px;
 }
 
 #object-a{
-  background-color: #DFFFFF;
+  background-color: #dff2ff;
   margin: 2em auto;
   padding: 20px;
 }
@@ -51,6 +51,13 @@ details{
   margin: 2em 1em;
   background-color: white;
 }
+
 li{
   padding: 10px;
+}
+
+footer{
+  font-size: 1rem;
+  padding: 5px;
+  background-color: #e6e6e6;
 }
